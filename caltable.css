@@ -1,0 +1,99 @@
+#bb{
+    display: flex;
+    border: thick solid blue;
+    padding: 10px 40px;
+}
+#bb1{
+   
+    display: flex;
+    flex-direction: column;
+    height: 30vh;
+    margin: auto 0px;
+
+}
+#bb2{
+
+    display: flex;
+    flex-direction: column;
+    height: 30vh;
+    margin: auto 0px;
+
+}
+#bb3{
+    margin: auto 5px;
+    font-size: 30px;
+
+}
+#ff{
+    border: thick solid rgb(204, 119, 8);
+    margin: auto 0px;
+    width: 5vh;
+
+}
+#kk1{
+    border: thick solid rgb(204, 119, 8);
+    margin: auto 0px;
+    width: 5vh;
+    height: 25vh;
+    border-right: none;
+
+}
+#kk2{
+    border: thick solid rgb(204, 119, 8);
+    margin: auto 0px;
+    width: 5vh;
+    height: 25vh;
+    border-left: none;
+
+}
+#nn{
+    width: 10vh;
+    height: 5vh;
+    text-align: center;
+    border: none;
+    outline: none;
+    background-color: firebrick;
+    color: #ffffff;
+    margin: 35px 20px;
+}
+#mm{
+    width: 10vh;
+    height: 5vh;
+    text-align: center;
+    border: none;
+    outline: none;
+    background-color: firebrick;
+    color: #ffffff;
+    margin: 30px 20px;
+}
+#ad{
+    margin-bottom: 10px;
+    height: 5vh;
+    background-color: blue;
+    color: white;
+}
+#su{
+    margin: 15px 0px;
+    height: 5vh;
+    background-color: blue;
+    color: white;
+}
+#di{
+    margin: 15px 0px;
+    height: 5vh;
+    background-color: blue;
+    color: white;
+}
+#mu{
+    margin-top: 15px;
+    height: 5vh;
+    background-color: blue;
+    color: white;
+}
+#dip{
+    width: 10vh;
+    height: 5vh;
+    margin: auto 10px;
+    background-color: blue;
+    color: white;
+}
